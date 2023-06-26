@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/user/lio-sam_ws/devel/include/**",
+        "/home/user/livox_ws/devel/include/**",
+        "/home/user/qingfeng_cupy/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/user/qingfeng_cupy/src/VINS-Fusion/camera_models/include/**",
+        "/home/user/qingfeng_cupy/src/elevation_mapping_cupy/plane_segmentation/convex_plane_decomposition/include/**",
+        "/home/user/qingfeng_cupy/src/elevation_mapping_cupy/plane_segmentation/convex_plane_decomposition_ros/include/**",
+        "/home/user/qingfeng_cupy/src/elevation_mapping_cupy/elevation_mapping_cupy/include/**",
+        "/home/user/qingfeng_cupy/src/elevation_mapping_cupy/plane_segmentation/grid_map_filters_rsl/include/**",
+        "/home/user/lio-sam_ws/src/LIO-SAM-MID360/include/**",
+        "/home/user/qingfeng_cupy/src/realsense-ros-ros1-legacy/realsense2_camera/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

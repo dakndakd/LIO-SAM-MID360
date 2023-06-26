@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/user/lio-sam_ws/devel/lib/python3/dist-packages",
+        "/home/user/livox_ws/devel/lib/python3/dist-packages",
+        "/home/user/qingfeng_cupy/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/user/lio-sam_ws/devel/lib/python3/dist-packages",
+        "/home/user/livox_ws/devel/lib/python3/dist-packages",
+        "/home/user/qingfeng_cupy/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
